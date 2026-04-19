@@ -1,0 +1,47 @@
+hyperframes-skill-refs
+======================
+
+This product includes derivative works of the HyperFrames documentation
+originally published at https://hyperframes.heygen.com and licensed under
+the Apache License, Version 2.0 (see LICENSE).
+
+Upstream project: https://github.com/heygen-com/hyperframes
+Copyright (c) HeyGen, Inc. and HyperFrames contributors.
+
+------------------------------------------------------------------------
+Derivative works contained in this repository
+------------------------------------------------------------------------
+
+The files under `references/` are not verbatim copies of the upstream
+documentation. They are derivative markdown documents, restructured for
+loading on demand by AI coding agents (Claude Code, Cursor, Codex, etc.).
+
+Specifically, the following changes were made relative to the upstream
+source pages listed in each file's frontmatter:
+
+1. Rewritten lead paragraphs for brevity.
+2. Added "Read this when ..." trigger sentences at the top of each file
+   so an agent can decide whether to load the file based on the current
+   task.
+3. Preserved the upstream vocabulary tables, CLI flag tables, code
+   examples, and API signatures — these are factual reference material
+   and are reproduced from the upstream docs.
+4. Omitted navigation chrome, page metadata, and marketing copy.
+5. Collapsed some multi-section pages into a single markdown file per
+   source URL.
+
+No modifications were made to the HyperFrames code, CLI behavior, or
+framework APIs. This repository contains documentation only.
+
+------------------------------------------------------------------------
+License of modifications
+------------------------------------------------------------------------
+
+Modifications are licensed under the Apache License, Version 2.0.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+------------------------------------------------------------------------
+
+Jane (Jane-xiaoer) — 2026-04-19
