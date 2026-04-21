@@ -47,3 +47,22 @@ Nothing here claims to be an official HyperFrames product. For authoritative doc
 ## Contributing
 
 Spotted drift from the upstream docs? Open a PR replacing the offending file with the current upstream content (preserve the frontmatter source URL), or file an issue.
+
+---
+
+## 📱 关注作者 / Follow Me
+
+如果这个仓库对你有帮助，欢迎关注我。后面我会持续更新更多 AI Skill、视频生成工作流、提示词系统和创意工具。
+
+If this repo helped you, follow me for more AI skills, video generation workflows, prompt systems, and creative tooling.
+
+- X (Twitter): [@xiaoerzhan](https://x.com/xiaoerzhan)
+- 微信公众号 / WeChat Official Account: 扫码关注 / Scan to follow
+
+<p align="center">
+  <img src="./follow-wechat-qrcode.jpg" alt="Jane WeChat Official Account QR code" width="300" />
+</p>
+
+<p align="center"><strong>中文：</strong>欢迎关注我的公众号，一起研究 AI Skill、视频生成、提示词组织和创意工作流。</p>
+
+<p align="center"><strong>English:</strong> Follow my WeChat Official Account for more AI skills, video generation workflows, prompt systems, and creative tooling.</p>
